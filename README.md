@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SNIF0
-- 👀 I’m interested: in Coding
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning: Coding
 - 💞️ I’m looking to collaborate on. ???  
 - 📫 How to reach me: SNIF0@github
